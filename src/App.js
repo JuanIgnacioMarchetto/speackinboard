@@ -46,7 +46,7 @@ function App() {
       <input
         type="text"
         id="input"
-        placeholder="Asi se dice:..."
+        placeholder="Speack:..."
         className="bobhabla"
         value={inputValue}
         readOnly
