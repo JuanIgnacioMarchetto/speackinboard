@@ -60,7 +60,7 @@ function App() {
       <input
         type="button"
         id="delete"
-        value="Borrar"
+        value="Delete"
         className="borrar"
         onClick={clearInput}
       />
